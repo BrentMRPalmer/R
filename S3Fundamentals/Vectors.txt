@@ -1,0 +1,15 @@
+What is a Vector?
+
+A vector is a sequence (ordered set) of elements of the same data type.
+The same thing as an array in other languages.
+
+A numeric vector in R:
+50 34 111 7 24 631 20 4 7 21
+
+They are enumerated, starting with the index of 1.
+
+A character vector in R:
+
+"Z" "f" "7" "2a" "Yes" "A" "Ab"
+
+Even a single number is stored as a vector of length 1.

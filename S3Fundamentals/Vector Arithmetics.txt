@@ -1,0 +1,38 @@
+L1 <- 50 34 111 7 24 631 20 4 7 21
+L2 <- 100 2 56 12 0 76 93 10 244 1
+
+Say you wanted to add these two vectors together.
+In most programming languages, you would make a loop
+that iterates over each vector and you would add them
+together. This is called the "devoctorized approach."
+
+In R, it uses the "vectorized approach," which is why
+it is called a "vector based programming language."
+That means that you can say L1 + L2, and it
+will automatically add each corresponding element.
+Other operations work, like <, >, >=, <=, ==, etc.
+
+What happens if you try and do:
+L1 <- 50 34 111 7 24 
++
+L2 <- 100 2 56 12 0 76 93 10 244 1
+
+It will do "recycling of vectors" where it simply repeats the shorter one 
+L1 <- 50 34 111 7 24 50 34 111 7 24 
++
+L2 <- 100 2 56 12 0 76 93 10 244 1
+
+ex2: 
+L1 <- 50 34 111 7 24 631
++
+L2 <- 100 2 56 12 0 76 93 10 244 1
+
+Performs the following with a language.
+L1 <- 50 34 111 7 24 631 50 34 111 7
++
+L2 <- 100 2 56 12 0 76 93 10 244 1
+
+Functions can also accept and return a vector.
+
+
+
