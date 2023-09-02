@@ -1,0 +1,32 @@
+Section Recap
+
+1) What is a vector?
+	Basically a sequence of elements
+	All of the elements have to be of the same type
+
+2) Created some vectors: c(), seq(), rep()
+	c() stands for combine
+	seq() stands for sequence
+	rep() stands for replicate
+
+3) Check types: is.numeric(), ...
+	Allows us to check the type of a vector
+
+4) Using the [] brackets
+	Used to access individual elements of vectors
+	Variables of one element are also vectors
+
+5) Vertorized operations
+	Two vectors can have operations done on all matching elements
+	Does not require a loop
+
+6) Power of vectorized operations
+	Vectorized shorter code
+	Vectorized faster runtime (outsources operations to C)
+
+7) Functions in R
+	Similar to a blender (takes inputs, returns outputs)
+	? operator lets you learn about functions
+
+8) Packages in R
+	Allows you to use premade functions
