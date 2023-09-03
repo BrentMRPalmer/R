@@ -1,0 +1,11 @@
+Project Brief
+
+Study of the NBA players
+
+Take the top 10 highest paid players of the 2015-2016 players and
+analyze how they have been playing over the past 10 years
+
+GP - games played
+MPG - minutes per game
+FG% - field goal percentage
+PPG - points per game

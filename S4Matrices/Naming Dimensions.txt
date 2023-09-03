@@ -1,0 +1,24 @@
+Naming Dimensions
+
+	P	Q	R	S	T
+
+Hello	27	27	27	27	27
+
+x	27	27	27	27	27
+
+Best	27	27	27	0	27
+
+A[3, 4]
+A[3, "S"]
+A["Best", 4]
+A["Best", "S"]
+
+These all work because the numbers can still be used
+
+V = 
+a	b	c	d	e
+27	27	27	0	27
+
+V[4] 
+V["d"]
+

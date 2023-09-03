@@ -1,0 +1,26 @@
+Section Recap
+
+1) Matrices
+	A lot of the data in the world is stored in table format
+2) Building matrices
+	matrix()
+	rbind()
+	cbind()
+3) Naming dimensions
+	Using names instead of numbers for indexing
+4) Colnames() and Rownames()
+	Functions used to name dimensions
+5) Matrix Operations
+	Adding, subtracting, multiplying, dividing, etc.
+	Like vectorized operations
+6) Visualizing with Matplot()
+	Used to make charts from matrices
+	t() for transpose since Matplot() goes on columns
+7) Subsetting
+	Used to get specific rows and columns
+	Use drop=F to preserve matrix when extracting one row or column
+8) Creating our first function
+	Syntax explained
+9) Deriving insights
+	Going over various charts
+	Data analysis

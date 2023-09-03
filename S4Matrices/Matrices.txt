@@ -1,0 +1,25 @@
+Matrices
+
+Why are they so important?
+Table format is a very efficient way to convey data
+Tables are stored as matrices in R
+
+A vector is essentially a 1xn matrix
+A matrix can be nxm
+
+
+	1	2	3	4	5
+
+1	27	27	27	27	27
+
+2	27	27	27	27	27
+
+3	27	27	27	0	27
+
+Indexation:
+To access the 0, you write A[3,4]
+
+To access an entire row, write A[x,]
+To access an entire column, write A[,y]
+
+A matrix can only have elements of the same type
