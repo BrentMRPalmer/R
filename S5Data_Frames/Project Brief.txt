@@ -1,0 +1,13 @@
+Project Brief
+Demographic Analysis
+
+You are employed as a Data Scientist by the World Bank and you are 
+working on a project to analyze the World's demographic trends.
+
+You are required to produce a scatterplot illustrating Birth Rate
+and Internet Usage statistics by Country. 
+
+The scatterplot needs to also be categorized by Countries' Income Groups.
+
+Internet usage: the percentage of people who use the Internet
+Birth rate: If you take a thousand people, how many new people will be born in a year

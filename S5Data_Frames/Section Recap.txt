@@ -1,0 +1,32 @@
+Section Recap
+
+1) Importing Data into R (read.csv())
+	I. manual selection 
+	II. providing file path
+2) Exploring Datasets: 
+	head() - top 6 rows
+	tail() - bottom 6 rows
+	summary() - summary of columns
+	str() - structure of the data set
+3) Using the $ sign
+	Specific to data frames
+	Shortcut to accessing columns by their names
+4) Basic operations with Data Frames
+	Add columns
+	Remove columns
+	Mathematical ops on columns
+5) Filtering a Data Frame
+	Omitting undesired rows
+	Put logical vector in []
+6) Introduction to qplot
+	Function used for plotting
+7) Visualization with qplot: Part 1
+	Plotted birth rate vs internet users
+8) Building data frames
+	data.frame() creates data frame
+9) Merging data frames
+	merge() merges data frames based on a common column
+10) Visualization with qplot: Part 2
+	Shapes
+	Transparency
+	Plot titles

@@ -1,0 +1,4 @@
+Welcome
+
+Matrices need the same data types for everything
+Data frames also store tables but may have a mix of data types
