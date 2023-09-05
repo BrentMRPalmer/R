@@ -1,0 +1,4 @@
+Welcome
+
+GGPlot gives a lot of flexibility and control over plots
+ggplot() is the main function in GGPlot2 package

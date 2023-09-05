@@ -1,0 +1,27 @@
+Grammar of Graphics
+
+Started in the 19th century
+Map that shows Napoleon's army with many layers of information (ex: army size, date, temperature, longitude, latitude, etc.)
+
+A chart consists of layers:
+
+7	Theme
+6	Coordinates
+5	Facets
+4	Statistics
+3	Geometries
+2	Aesthetics
+1	Data
+
+First three layers are absolutely necessary 
+
+
+
+Movie Budget Distribution Example
+Data - used in the background
+Aesthetics - using colour fill and labelling axis (how is the data mapped?)
+Geometries - boxes used to show the data
+Statistics - creating new variables from existing data (grouping by genre)
+Facets - multiple years
+Coordinates - x-axis and y-axis, and the scale
+Theme - everything else you see on the chart (title, colour of x and y axis, fonts, legend, etc.) (Non-data-ink)

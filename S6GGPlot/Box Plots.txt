@@ -1,0 +1,15 @@
+Box Plot
+
+Take the median - draw a line
+Take the median of the top half and the bottom half - draw two lines
+Draw two vertical lines to create a box
+Add two horizontal lines on the minimum and maximum values (whiskers)
+
+This leaves four ranges
+Min-Q1
+Q1-Median
+Median-Q3
+Q3-Max
+
+Q3 - Q1 = Interquartile Range
+1.5x IQR is considered an outlier (should not be included)

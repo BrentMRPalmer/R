@@ -1,0 +1,34 @@
+Section Recap
+
+1) Grammar of Graphics and GGPlot2
+	Charles' visualization of the French going into Russia
+	Combined 7 layers onto one small 2D chart
+	Data, Aesthetics, Geometries, Statistics, Aesthetics, Coordinates, Theme
+2) Factors in R
+	How R stores categorical variables
+	Use factor() to convert
+3) Aesthetics & ggplot()
+	Colour, size, etc.
+4) Plotting with layers
+	Using the addition operator to add new layers
+	Most recently added layers appear on top
+5) Overriding Aesthetics
+	Allows you to override aesthetics with subsequent layers
+6) Mapping vs. Setting
+	Do you want to map an aesthetic or set it universally
+7) Histograms and Density Charts
+	Histograms have a fill parameter which is the inside colour
+	Just colour is the colour of the border
+	Only need one axis for a histogram
+8) Starting Layer Tips
+	Which layer should you specify certain details?
+9) Statistical Transformation
+	geom_smooth(), geom_jitter(), etc.
+10) Using Facets
+	Allows you to create many plots on the same page
+	Splits the data up by some quality
+11) Coordinates
+	How you can zoom into a chart
+12) Themes
+	Non-data-ink
+	Ways to make visualizations look more appealing to the eye
